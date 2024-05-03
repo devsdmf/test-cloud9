@@ -1,0 +1,5 @@
+{
+  "cmd" : ["go", "run", "$file", "$args"],
+  "info" : "Running $project_path$file_name...",
+  "selector" : "source.go"
+}
